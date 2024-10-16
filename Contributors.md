@@ -3,7 +3,7 @@ UI/UX:
 
 Front End :
 
-Back End:
+Back End: Naoko Kamo
 CyberSecurity:
 QA:
 */
